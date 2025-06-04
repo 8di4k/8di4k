@@ -53,18 +53,6 @@
 
 ---
 
-### 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/8di4k/StickerForge-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=StickerForge-AI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/8di4k/TGAvatr-Lite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatr-Lite&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 🤝 Let’s connect
 - 📝 Currently writing about **AI-powered assistants** and **Solana meme-coin tooling**  
 - 💬 Ask me anything about **Python, TypeScript, GPT-4o function calling, or Solana programs**  
