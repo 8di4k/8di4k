@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" />
   <a href="https://github.com/8di4k">
+  </p>
+<p
     <img
       alt="8di4k's GitHub Stats"
       height="175"
