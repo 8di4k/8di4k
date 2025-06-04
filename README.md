@@ -1,9 +1,3 @@
-## Hi there 👋
-<!-- Header / banner -->
-<p align="center">
-  <img src="banner.png" alt="Tim Yumashev • 8di4k" width="100%" />
-</p>
-
 <!-- Intro -->
 <h3 align="center">Hi, I’m Tim — aka <code>8di4k</code> 👋</h3>
 <p align="center">
