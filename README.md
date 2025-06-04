@@ -27,7 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" />
   <a href="https://github.com/8di4k">
   </p>
-<p
+
+<p align="center">
     <img
       alt="8di4k's GitHub Stats"
       height="175"
