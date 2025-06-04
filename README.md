@@ -41,7 +41,26 @@
 </p>
 
 ---
+### 🚀 Featured Projects
+<p align="center">
 
+  <!-- VodichkaGPT -->
+  <a href="https://github.com/8di4k/VodichkaGPT">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=VodichkaGPT&theme=tokyonight&hide_border=true"
+      alt="VodichkaGPT repo card"
+    />
+  </a>
+
+  <!-- TGAvatar -->
+  <a href="https://github.com/8di4k/TGAvatar">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonight&hide_border=true"
+      alt="TGAvatar repo card"
+    />
+  </a>
+
+</p>
 
 
 ### 🤝 Let’s connect
