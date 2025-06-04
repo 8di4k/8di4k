@@ -25,12 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
   <a href="https://github.com/8di4k">
     <img
       alt="8di4k's GitHub Stats"
