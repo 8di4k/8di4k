@@ -34,7 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=8di4k&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8di4k&layout=compact&theme=tokyonight" height="165"/>
 </p>
-<sub>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.</sub>
 
 ---
 
