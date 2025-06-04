@@ -30,9 +30,14 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8di4k&layout=donut-vertical)](https://github.com/8di4k/github-readme-stats)
+  <a href="https://github.com/8di4k">
+    <img
+      alt="8di4k's GitHub Stats"
+      height="175"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=8di4k&layout=donut&theme=tokyonight)"
+    />
+  </a>
 </p>
 
 ---
