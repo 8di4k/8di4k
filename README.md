@@ -47,7 +47,7 @@
   <!-- VodichkaGPT -->
   <a href="https://github.com/8di4k/VodichkaGPT">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=VodichkaGPT&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=VodichkaGPT&theme=tokyonight"
       alt="VodichkaGPT repo card"
     />
   </a>
@@ -55,7 +55,7 @@
   <!-- TGAvatar -->
   <a href="https://github.com/8di4k/TGAvatar">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonigh"
       alt="TGAvatar repo card"
     />
   </a>
