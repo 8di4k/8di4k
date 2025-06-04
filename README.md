@@ -70,10 +70,6 @@
 - 💬 Ask me anything about **Python, TypeScript, GPT-4o function calling, or Solana programs**  
 - 📬 DM me on **Telegram** for collaboration
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=8di4k" alt="visitor badge"/>
-</p>
-
 <!-- 🌊─────── FOOTER WAVE ─────── -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
