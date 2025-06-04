@@ -1,8 +1,7 @@
 <!-- Intro -->
 <h3 align="center">Hi, I’m Tim — aka <code>8di4k</code> 👋</h3>
 <p align="center">
-  Full-stack dev • AI tinkerer • Crypto & security enthusiast<br/>
-  <em>Building StickerForge AI, TGAvatr Lite and more.</em>
+  Full-stack dev • AI tinkerer • Crypto & security enthusiast.<br/>
 </p>
 
 <!-- Badges -->
