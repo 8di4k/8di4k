@@ -39,13 +39,6 @@
       src="https://github-readme-stats.vercel.app/api?username=8di4k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
     />
   </a>
-  <a href="https://github.com/8di4k">
-    <img
-      alt="Top Languages"
-      height="175"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=8di4k&layout=compact&langs_count=8&theme=tokyonight&hide=html,scss&hide_border=true"
-    />
-  </a>
 </p>
 
 <p align="center">
