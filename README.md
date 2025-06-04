@@ -9,10 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/vdi4k"><img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
+  <a href="https://x.com/8di4k"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+  <a href="mailto:8di4k@pm.me"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
