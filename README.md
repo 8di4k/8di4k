@@ -55,7 +55,7 @@
   <!-- TGAvatar -->
   <a href="https://github.com/8di4k/TGAvatar">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonigh"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonight"
       alt="TGAvatar repo card"
     />
   </a>
