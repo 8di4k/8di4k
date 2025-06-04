@@ -40,17 +40,28 @@
   </a>
 </p>
 
+---
+
+### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+
+  <!-- VodichkaGPT -->
+  <a href="https://github.com/8di4k/VodichkaGPT">
     <img
-      alt="GitHub Streak"
-      height="165"
-      src="https://streak-stats.demolab.com?user=8di4k&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=VodichkaGPT&theme=tokyonight&hide_border=true"
+      alt="VodichkaGPT repo card"
     />
   </a>
-</p>
 
----
+  <!-- TGAvatar -->
+  <a href="https://github.com/8di4k/TGAvatar">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonight&hide_border=true"
+      alt="TGAvatar repo card"
+    />
+  </a>
+
+</p>
 
 ### 🤝 Let’s connect
 - 📝 Currently writing about **AI-powered assistants** and **Solana meme-coin tooling**  
