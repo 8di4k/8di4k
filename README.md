@@ -1,9 +1,9 @@
 <!-- 🌊────────────────────────── HEADER BANNER ────────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00B4DB,100:0083B0&height=240&section=header&text=8di4k&fontColor=FFFFFF&fontAlignY=35&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h3 align="center">Hi, I’m Tim — aka <code>8di4k</code> 👋</h3>
+<h3 align="center">I’m Tim — aka <code>8di4k</code> 👋</h3>
 <p align="center">
   Full-stack dev • AI tinkerer • Crypto&nbsp;&amp;&nbsp;security enthusiast
 </p>
