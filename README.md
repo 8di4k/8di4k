@@ -51,8 +51,6 @@
   </a>
 </p>
 
-<sub align="center">Cards by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> &amp; <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>.</sub>
-
 ---
 
 ### 🚀 Featured Projects
