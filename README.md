@@ -35,7 +35,7 @@
     <img
       alt="8di4k's GitHub Stats"
       height="175"
-      src="https://github-readme-stats.vercel.app/api?username=8di4k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats.vercel.app/api?username=8di4k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"
     />
   </a>
 </p>
@@ -47,7 +47,7 @@
   <!-- VodichkaGPT -->
   <a href="https://github.com/8di4k/VodichkaGPT">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=VodichkaGPT&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=VodichkaGPT&theme=tokyonight"
       alt="VodichkaGPT repo card"
     />
   </a>
@@ -55,7 +55,7 @@
   <!-- TGAvatar -->
   <a href="https://github.com/8di4k/TGAvatar">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonight"
       alt="TGAvatar repo card"
     />
   </a>
