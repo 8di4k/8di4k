@@ -74,7 +74,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=8di4k" alt="visitor badge"/>
 </p>
 
-<!-- 🌊────────────────────────── FOOTER WAVE ─────────────────────────── -->
+<!-- 🌊─────── FOOTER WAVE ─────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
