@@ -35,7 +35,7 @@
     <img
       alt="8di4k's GitHub Stats"
       height="175"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=8di4k&layout=donut&theme=tokyonight)"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=8di4k&layout=donut&theme=tokyonight"
     />
   </a>
 </p>
