@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-stack+dev+%E2%80%A2+AI+builder+%E2%80%A2+Web3+researcher;Abu+Dhabi+%F0%9F%87%A6%F0%9F%87%AA+%7C+Open+to+work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full-stack+dev+%E2%80%A2+AI+builder+%E2%80%A2+Pentester+%E2%80%A2+Web3+researcher;Cybersecurity+%7C+Smart+Contract+Audits+%7C+Bug+Bounty+Hunter;Abu+Dhabi+%F0%9F%87%A6%F0%9F%87%AA+%7C+Open+to+work" />
 </p>
 
 ---
@@ -21,12 +21,16 @@
 class Tim:
     location  = "Abu Dhabi, UAE"
     education = "Abu Dhabi University"
-    focus     = ["AI-powered products", "Telegram Mini Apps", "DeFi & on-chain analysis"]
+    roles     = ["Full-Stack Developer", "Penetration Tester", "Security Researcher"]
+    focus     = ["AI-powered products", "Telegram Mini Apps", "DeFi & on-chain analysis",
+                 "Web3 security audits", "Bug bounty hunting"]
     currently = "Shipping GiftGalaxy — provably fair Telegram raffle platform"
 ```
 
-I design and build **full-stack products** around AI, Telegram bots, and blockchain.
-Most of my work lives at the intersection of **GPT function-calling**, **real-time WebSocket systems**, and **on-chain data**.
+I design and build **full-stack products** around AI, Telegram bots, and blockchain — and then I **break them** to make sure they're secure.
+
+Day job: shipping production apps. Night job: **pentesting**, **smart contract auditing**, and hunting bugs on **Immunefi / HackenProof / Code4rena**.
+My work sits at the intersection of **GPT function-calling**, **real-time WebSocket systems**, **on-chain data**, and **offensive security**.
 
 ---
 
@@ -34,23 +38,51 @@ Most of my work lives at the intersection of **GPT function-calling**, **real-ti
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,solidity,bash" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,solidity,rust,bash" />
   <br/>
   <!-- Frameworks & Runtime -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,tailwind" />
   <br/>
   <!-- Infra & Data -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,kali" />
+</p>
+
+---
+
+### Security & Pentesting
+
+```
+Offensive Security          Smart Contract Auditing       Bug Bounty Platforms
+ |- Web App Pentesting       |- Solidity / EVM             |- Immunefi
+ |- API Security Testing     |- Flash Loan Attack Vectors   |- HackenProof
+ |- Network Pentesting       |- Oracle Manipulation         |- Code4rena
+ |- OWASP Top 10             |- Reentrancy / Access Ctrl    |- Sherlock
+ |- Cloud Security (AWS)     |- Economic Logic Bugs         |- HackerOne
+                                                            
+Tools: Burp Suite, Slither, Mythril, Foundry, Echidna, Nmap, SQLmap, Metasploit, Ghidra
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-1C1C1C?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slither-2B2B2B?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 </p>
 
 ---
 
 ### What I'm up to
 
-- Shipping **[GiftGalaxy](https://github.com/8di4k/GiftGalaxy)** — Telegram Mini App with provably fair raffles, commit-reveal fairness, tiered commissions, and a cosmic gravity-well UI
+- Shipping **[GiftGalaxy](https://github.com/8di4k/GiftGalaxy)** — Telegram Mini App with provably fair raffles, commit-reveal fairness, and a cosmic gravity-well UI
 - Contributing to **[Atoll](https://github.com/Ebullioscopic/Atoll)** — Dynamic Island for macOS (880+ stars)
+- Auditing DeFi protocols for oracle manipulation, reentrancy, and economic logic bugs
+- Hunting bugs on **Immunefi** and **HackenProof** — focused on Critical/High severity findings
 - Researching on-chain inefficiencies: MEV patterns, oracle anomalies, DeFi arbitrage via Etherscan/Alchemy APIs
-- Writing about **GPT-4o function calling** and **Telegram bot architecture**
+- Writing about **GPT-4o function calling**, **Telegram bot architecture**, and **smart contract security**
 
 ---
 
@@ -74,7 +106,7 @@ Most of my work lives at the intersection of **GPT function-calling**, **real-ti
 ### Let's build something
 
 <p align="center">
-  <b>DM me on <a href="https://t.me/vdi4k">Telegram</a> — always open to collaborate on AI, Web3, or Telegram Mini App ideas.</b>
+  <b>DM me on <a href="https://t.me/vdi4k">Telegram</a> — open to collaborate on AI, Web3, security audits, or Telegram Mini App ideas.</b>
 </p>
 
 <!-- ───────────────────────── FOOTER ───────────────────────── -->
