@@ -45,38 +45,6 @@ Most of my work lives at the intersection of **GPT function-calling**, **real-ti
 
 ---
 
-### Featured work
-
-<p align="center">
-  <a href="https://github.com/8di4k/GiftGalaxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=GiftGalaxy&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/8di4k/VodichkaGPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=VodichkaGPT&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/8di4k/TGAvatar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=TGAvatar&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/8di4k/EUDI-Enablement-Suite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=8di4k&repo=EUDI-Enablement-Suite&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-
-<details>
-<summary><b>More projects</b></summary>
-<br/>
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| **[lufs_web](https://github.com/8di4k/lufs_web)** | Landing page for LUFS Music Analyzer bot with 3D viz, easter eggs & full test suite | Next.js 16, Three.js, Framer Motion |
-| **[Call-Token](https://github.com/8di4k/Call-Token)** | $PRIKOL meme-token launch site on Solana/Pump.fun | React, TypeScript, Tailwind, Vite |
-
-</details>
-
----
-
 ### What I'm up to
 
 - Shipping **[GiftGalaxy](https://github.com/8di4k/GiftGalaxy)** — Telegram Mini App with provably fair raffles, commit-reveal fairness, tiered commissions, and a cosmic gravity-well UI
