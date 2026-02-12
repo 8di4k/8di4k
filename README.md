@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full-stack+dev+%E2%80%A2+AI+builder+%E2%80%A2+Pentester+%E2%80%A2+Web3+researcher;Cybersecurity+%7C+Smart+Contract+Audits+%7C+Bug+Bounty+Hunter;Abu+Dhabi+%F0%9F%87%A6%F0%9F%87%AA+%7C+Open+to+work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=true&width=480&height=30&lines=Builder+%E2%80%A2+Pentester+%E2%80%A2+Web3+Researcher;Smart+Contract+Auditor+%E2%80%A2+Bug+Hunter;Abu+Dhabi+%F0%9F%87%A6%F0%9F%87%AA+%7C+Open+to+work" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Offensive Security          Smart Contract Auditing       Bug Bounty Platforms
  |- API Security Testing     |- Flash Loan Attack Vectors   |- HackenProof
  |- Network Pentesting       |- Oracle Manipulation         |- Code4rena
  |- OWASP Top 10             |- Reentrancy / Access Ctrl    |- Sherlock
- |- Cloud Security (AWS)     |- Economic Logic Bugs         |- HackerOne
+ |- Cloud Security (AWS)     |- Economic Logic Bugs         |
                                                             
 Tools: Burp Suite, Slither, Mythril, Foundry, Echidna, Nmap, SQLmap, Metasploit, Ghidra
 ```
