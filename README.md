@@ -82,7 +82,7 @@ Tools: Burp Suite, Slither, Mythril, Foundry, Echidna, Nmap, SQLmap, Metasploit,
 - Auditing DeFi protocols for oracle manipulation, reentrancy, and economic logic bugs
 - Hunting bugs on **Immunefi** and **HackenProof** — focused on Critical/High severity findings
 - Researching on-chain inefficiencies: MEV patterns, oracle anomalies, DeFi arbitrage via Etherscan/Alchemy APIs
-- Writing about **GPT-4o function calling**, **Telegram bot architecture**, and **smart contract security**
+- Writing about **ML function calling**, **Telegram bot architecture**, and **smart contract security**
 
 ---
 
